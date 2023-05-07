@@ -57,7 +57,6 @@ offer extra credit problems on exams.
 
 - Course Textbook: <https://infinitedescent.xyz/dl/infdesc.pdf>
 - Previous Course Website: <https://www.math.cmu.edu/~mradclif/teaching/127S19/index.html>
-- Trev Tutor: <https://www.youtube.com/@Trevtutor> 
-I found this the most helpful for understanding concepts
+- Trev Tutor (I found this the most helpful for understanding concepts): <https://www.youtube.com/@Trevtutor> 
 - Latex Documentation: <https://www.overleaf.com/learn>
 - Using Latex in VS Code: <https://mathjiajia.github.io/vscode-and-latex/>
