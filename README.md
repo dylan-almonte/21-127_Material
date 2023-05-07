@@ -57,3 +57,5 @@ offer extra credit problems on exams.
 
 - Course Textbook: <https://infinitedescent.xyz/dl/infdesc.pdf>
 - Trev Tutor: <https://www.youtube.com/@Trevtutor>
+- Latex Documentation: <https://www.overleaf.com/learn>
+- Using Latex in VS Code: <https://mathjiajia.github.io/vscode-and-latex/>
